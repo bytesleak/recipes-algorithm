@@ -109,7 +109,6 @@ message(STATUS "CMAKE_SHARED_LINKER_FLAGS: ${CMAKE_SHARED_LINKER_FLAGS}")
 #include_directories(BEFORE src) # This is needed for gtest.
 
 add_subdirectory(src)
-add_subdirectory(test)
 ######################################################################################################################
 # MAKE TARGETS
 ######################################################################################################################
