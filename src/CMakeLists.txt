@@ -1,4 +1,4 @@
-file(GLOB BUSTUB_TEST_SOURCES "${PROJECT_SOURCE_DIR}/src/dp/*/*test.cpp")
+file(GLOB BUSTUB_TEST_SOURCES "${PROJECT_SOURCE_DIR}/src/dp/Knapsack01/*test.cpp")
 
 ######################################################################################################################
 # DEPENDENCIES
